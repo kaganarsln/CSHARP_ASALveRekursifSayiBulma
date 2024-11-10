@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\bin\Debug\overloading_o1.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\bin\Debug\overloading_o1.exe
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\bin\Debug\overloading_o1.pdb
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.exe
+C:\Users\user\Desktop\gorselprogramlama1\overloading_o1\obj\Debug\overloading_o1.pdb
